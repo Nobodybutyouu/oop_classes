@@ -6,9 +6,10 @@ int level;
 player3( {required this.name, required this.role, required this.level} );
 
 void displayInfo(){
-  print("Name:$name");
+  print("Player name:$name");
   print("Role: $role");
   print("Level:$level");
+  print('');
 }
 
 }

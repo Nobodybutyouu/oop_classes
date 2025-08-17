@@ -7,5 +7,6 @@ class Guild {
 
   void info() {
     print('Guild Title: $name, Members#: $members');
+    print('');
   }
 }

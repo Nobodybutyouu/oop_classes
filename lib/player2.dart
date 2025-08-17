@@ -6,8 +6,9 @@ class player2 {
   player2({required this.name, required this.role, required this.level});
 
   void displayInfo() {
-    print('player name: $name');
-    print('player role: $role');
-    print('level: $level');
+    print('Player name: $name');
+    print('Role: $role');
+    print('Level: $level');
+    print('');
   }
 }

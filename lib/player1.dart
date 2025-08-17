@@ -9,5 +9,6 @@ class player1 {
     print('Player Name: $name');
     print('Role: $role');
     print('Level: $level');
+    print('');
   }
 }
